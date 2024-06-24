@@ -1,6 +1,8 @@
 # Olá, Luís aqui! 👋
 🎮 **Entusiasta de Games**
+
 💻 **Developer na TOTVS**
+
 📊 **Membro do Projeto: PrimaType Brazil**
 
 ---
@@ -26,7 +28,7 @@ Vamos trocar uma ideia sobre tecnologia, games, ou qualquer outra coisa que voc�
 
 Obrigado por visitar meu perfil! Se você gostou de algum dos meus projetos, sinta-se à vontade para deixar uma estrela ⭐. Seu apoio é muito importante para mim!
 
-![Thanks for visiting](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+![Thanks for visiting](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2V6cTl5bHI3Y2l0Y3F2anRjeTVoYmRlZ3F6NG4zcmUwZWNtMHI5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rHR8qP1mC5V3G/giphy.gif)
 <!--
 **zGots/zGots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
