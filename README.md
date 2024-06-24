@@ -17,7 +17,10 @@ Atualmente estou focado no PrimaType Brazil e seus projetos, porém no futuro pr
 Faço parte do projeto PrimaType Brazil, onde aplicamos ciência de dados para resolver problemas complexos e gerar insights valiosos. É um campo em constante evolução e uma área que me fascina cada vez mais.
 
 ## Conecte-se Comigo
-🔗 [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-felipe-bb9b6723b/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-felipe-bb9b6723b/)
+
+🐦 [Twitter / X](https://x.com/luis_zgots) 
+
 📧 [Email](mailto:felipeluis3320@gmail.com)
 
 ---
